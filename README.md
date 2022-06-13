@@ -4,7 +4,7 @@
 
 ## NOT FOR COMMERCIAL PURPOSES!
 
-### Created by [Fastys](https://github.com/fastys) and [Volodymyr68](https://github.com/volodymyr68)
+### Created by [Volodymyr68](https://github.com/volodymyr68)
 
 ### [FIGMA DESIGN](https://www.figma.com/file/ReOtQvvSMrPRCrDbUtbj2g/ChatIt) (by [Qidsen](https://github.com/qidsen))
 
